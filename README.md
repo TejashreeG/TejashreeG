@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TejashreeG
-- 👀 I’m interested in working on linux technologies
-- 🌱 I’m currently learning RedHat Linux
+- 👀 I’m interested in working on Front end technologies
+- 🌱 I’m currently learning new front end technologies
 - 💞️ I’m looking to collaborate on gmail
 - 📫 How to reach me tejughadge92@gmail.com
 
